@@ -14,6 +14,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="left">Skills</h2>
@@ -44,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmedsaberabdelgalil/ahmedsaberabdelgalil/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaberabdelgalil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaberabdelgalil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -62,6 +64,12 @@
   <a href="https://www.instagram.com/ahmedsaaberr_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 </div>
 
 ###
